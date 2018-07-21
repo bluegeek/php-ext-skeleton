@@ -8,3 +8,4 @@
 extension=extname.so
 
 执行 php extdemo.php 即可
+php -c php.ini-development ext/extdemo/extdemo.php
